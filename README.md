@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahSomething
-- 👀 I’m interested in professional growth in Computer Science and other fields.
+- 👀 I’m interested in professional growth and Self improvement in Computer Science and other fields.
 - 🌱 I’m currently learning C++ / DSA
 - 💞️ I’m looking to collaborate on any project that would help me to gain more knowledge and experience
 - 📫 How to reach me >>PM

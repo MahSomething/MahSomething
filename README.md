@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ / DSA
 - 💞️ I’m looking to collaborate on any project that would help me to gain more knowledge and experience
 - 🛠  I'm trying to solve 1 Problem everyday or 5 problems a week.
-- 📫 How to reach me >>PM
+- 📫 How to reach me >> Insta: @10enrasca
 
 <!---
 MahSomething/MahSomething is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
